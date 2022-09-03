@@ -1,0 +1,29 @@
+.navbar-brand {
+    background-color: rgba(6, 109, 29, 0.945) !important;
+    font-weight: 900 !important;
+    color: aliceblue;
+    padding: 4px;
+    /* font-style: "Serif" !important; */
+}
+
+.header-nav-color li a{
+    color: black !important;
+
+}
+
+.data {
+    color: rgba(6, 109, 29, 0.945) !important;
+    font-weight: 900 !important;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+.para {
+    word-spacing: 6px;
+    font-weight: 400 !important;
+    
+}
+
+.summary{
+    padding-inline: 10% !important;
+}
